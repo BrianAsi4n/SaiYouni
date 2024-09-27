@@ -7,26 +7,36 @@ public class Enemy : MonoBehaviour
 
     // 5 Enemies variables
 
-    //variables 1 
-
-    //variables 2
-
-    //variables 3 
-
-    //variables 4 
-
-    //variables 5 
+    public string enemyName = "niza";
+    public int enemyHP = 100;
+    public int enemyHPCurrent = 10;
+    public bool isDead = true;
+    public float weight = 2.5f;
 
 
     // 5 Enemies methods
+    public void Running()
+    {
 
-    //Method 1
+    }
+    public void Wallking()
+    {
 
-    //Method 2
+    }
+    public void Flying()
+    {
 
-    //Method 3
+    }
+    public void Swining()
+    {
 
-    //Method 4
+    }
+    public void Jumming()
+    {
 
-    //Method 5
+    }
+    public void Attack()
+    {
+
+    }
 }

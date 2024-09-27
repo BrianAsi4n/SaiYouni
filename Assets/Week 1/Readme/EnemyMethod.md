@@ -7,4 +7,7 @@ Hướng dẫn này giúp bạn hiểu cách khai báo và triển khai thêm 5 
 # Khai Báo Thêm 5 Biến Cho Class Enemy
 
 ## Mục Tiêu
+
 Hướng dẫn này giúp bạn hiểu cách khai báo và triển khai thêm 5 biến cho class `Enemy` trong Unity C#. Các biến này sẽ giúp quản lý các thuộc tính và trạng thái của kẻ địch trong trò chơi.
+
+// em lam trong Scripts roi ak

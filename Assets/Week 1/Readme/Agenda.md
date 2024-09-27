@@ -2,6 +2,15 @@
 
 ## 1. Tìm Giá Trị Lớn Nhất Mà Int, Float và Double Trong Unity C# Có Thể Lưu Trữ
 
+// Giá trị lớn nhất của int
+Debug.Log("Giá trị lớn nhất của int: " + int.MaxValue);
+
+// Giá trị lớn nhất của float
+Debug.Log("Giá trị lớn nhất của float: " + float.MaxValue);
+
+// Giá trị lớn nhất của double
+Debug.Log("Giá trị lớn nhất của double: " + double.MaxValue);
+
 ## 2. Để Thiết Kế Ra Một Kế Hoạch Làm Game Trong 1 Tháng
 
 ## 3. Khai Báo Thêm 5 Methods Cho Class Enemy
