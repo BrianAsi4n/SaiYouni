@@ -7,3 +7,5 @@ Sử dụng trí tuệ nhân tạo (AI) để thiết kế một kế hoạch ch
 ## Nội Dung
 
 Kế hoạch sẽ được chia thành 4 tuần, mỗi tuần tập trung vào một giai đoạn cụ thể của quá trình phát triển game.
+
+https://docs.google.com/document/d/1J4rqMThAJtCMfdou8vrQ2Q1iXcF2fGYmPAoT0zTzyAE/edit
